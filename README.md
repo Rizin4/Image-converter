@@ -4,22 +4,30 @@ Size and format of an image can be converted using this image converter
 
 
 ## Team members
+```sh
 1. MUHAMMED RISIN P [https://github.com/Rizin4]
 2. FAMINA V P [Embed perosnal github URL]
+```
 
 ## Team Id
+```sh
 Python / 112
+```
 
 ## Link to product walkthrough
 [link to video]
 
 ## How it Works ?
+```sh
 1. Changing image format - We can change image format from JPEG to PNG and vice versa
 
 2. Image resizing - We can change resolution of image
+```
 
 ## Libraries used
+
 - [Pillow](https://python-pillow.org/)
+
 
 ## How to configure
 Instructions for setting up project
