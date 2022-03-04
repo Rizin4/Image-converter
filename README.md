@@ -6,7 +6,7 @@ Size and format of an image can be converted using this image converter
 ## Team members
 
 1. MUHAMMED RISIN P [https://github.com/Rizin4]
-2. FAMINA V P [Embed perosnal github URL]
+2. FAMINA V P [http://github.com/faminavp]
 
 
 ## Team Id
