@@ -33,4 +33,18 @@ Python / 112
 Instructions for setting up project
 
 ## How to Run
-Instructions for running
+```sh
+Usage :
+python img_converter.py [input file name] [operation] [argument]
+
+Operation: 
+-f :To change format of image
+1: python img_converter.py image.jpeg -f png 
+2: python img_converter.py image.png -f jpeg 
+
+-r :To resize the image
+1)python img_converter.py image.jpeg -r 200x200 
+2)python img_converter.py image.jpeg -r 250x200
+
+```
+
