@@ -19,6 +19,7 @@ try:
         converted = im.convert('RGB')
 
         converted.save(f'{imageFileName}t.{argument}')
+        converted.show()
 
 
     elif operation == '-r':
@@ -27,6 +28,7 @@ try:
         r_tuple = (int(r[0]), int(r[1]))
         out = im.resize(r_tuple)
         out.save(f'output_{fullimageFileName}')
+        out.show()
 
 except:
     
