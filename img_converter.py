@@ -29,7 +29,7 @@ try:
         out = im.resize(r_tuple)
         out.save(f'output_{fullimageFileName}')
         out.show()
-
+   
 except:
     
     print('')
